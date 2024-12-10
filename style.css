@@ -1,0 +1,52 @@
+main{
+    margin-left: 300px;
+    border: 0.3em  solid black ;
+    margin-right: 310px;
+    padding-bottom: 30px;
+    background-color: burlywood;
+    border-radius: 2rem;
+    padding-left: 20px;
+    margin-bottom: 150px;
+}
+.heading{
+    text-decoration: underline;
+    margin-left: 150px;
+}
+.head{
+    text-decoration: underline;
+}
+
+.name{
+    display: block;
+    align-items: center;
+    margin-left: 10px;
+}.name h2{
+    text-decoration: underline;
+}
+.name input{
+    width: 70%;
+}
+.email{
+    width: 70%;
+    margin-left: 10px;
+}
+.radbutton{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.message{
+    padding: 50px 150px;
+}
+.submit{
+    background-color: rgb(10, 211, 10);
+    color: white;
+    padding: 10px 150px;
+    align-items: center;
+    margin-left: 70px;
+}
+.consentbutton{
+    display: flex;
+    gap: 10px;
+    align-items: center; 
+}
